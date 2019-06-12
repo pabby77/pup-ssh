@@ -1,0 +1,23 @@
+{
+  "name": "pabby5551c-ssh",
+  "version": "0.1.0",
+  "author": "pabby5551c <tina.ebimami@yahoo.com>",
+<<<<<<< HEAD
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pabby77/pup-ssh",
+  "project_page": "https://github.com/pabby77/pup-ssh",
+  "issues_url": "https://github.com/pabby77/pup-ssh/issues",
+=======
+  "summary": "This module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pabby77/puppet-ssh",
+  "project_page": "https://github.com/pabby77/puppet-ssh",
+  "issues_url": "https://github.com/pabby77/puppet-ssh/issues",
+>>>>>>> 34ce6699549b97a578c37557ed175c20733babcd
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
